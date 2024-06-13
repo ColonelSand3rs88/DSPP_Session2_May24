@@ -1,6 +1,6 @@
 # Portfolio
 
-# Methodology 
+## Methodology 
 
 This is a sample selection alongside my methods
 
